@@ -4,6 +4,8 @@ description: REAL JUSTICE
 file: /courses/21a-219-law-and-society-spring-2003/b51b1d2ffa176c460b3a5a68cfb2f5c6_hochartforrealjustice.pdf
 file_size: 49242
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
