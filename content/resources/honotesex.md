@@ -4,8 +4,6 @@ description: Examples of Reading Summaries
 file: /courses/21a-219-law-and-society-spring-2003/22f5454d98baadddd644750a34716152_honotesex.pdf
 file_size: 201718
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

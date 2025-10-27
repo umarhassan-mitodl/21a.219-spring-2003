@@ -4,8 +4,6 @@ description: 'Guide to Reading Social Science: How to Work through Long Reading 
 file: /courses/21a-219-law-and-society-spring-2003/ccdce006c2d22a95f9a47dd2cb481a01_guidetoreadingsocials.pdf
 file_size: 80397
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,7 +30,7 @@ Additional Resources
 --------------------
 
 1.  Seron and Silbey, " Profession, Science, and Culture: An Emergent Canon of Law and Society Research" is a synopsis of the classical literature in law and society.  If you are looking for additional materials on some aspect of the law relating to the film you are analyzing, you may find this article helpful in identifying appropriate literature.
-2.  I also recommend visiting the home page of sociologist Mathieu Deflem: [http://www.cas.sc.edu/socy/faculty/deflem/](http://www.cas.sc.edu/socy/faculty/deflem/). Once there, click on _"I Confess" Visions of Guilt and Innocence in the Films of Alfred Hitchcock_. Deflem's sociological analysis of the images of guilt and innocence as presented in Hitchcock films will help you further understand how to assess the images of law presented in your chosen film. [http://www.cas.sc.edu/socy/faculty/deflem/Hit/ahitch1.htm](http://www.cas.sc.edu/socy/faculty/deflem/Hit/ahitch1.htm)
+2.  I also recommend visiting the home page of sociologist Mathieu Deflem: {{% resource_link "48a60db1-410f-44c9-b864-3b4e0470eb81" "http://www.cas.sc.edu/socy/faculty/deflem/" %}}. Once there, click on _"I Confess" Visions of Guilt and Innocence in the Films of Alfred Hitchcock_. Deflem's sociological analysis of the images of guilt and innocence as presented in Hitchcock films will help you further understand how to assess the images of law presented in your chosen film. {{% resource_link "b8bcae23-ac75-4ae5-be7d-9560982281fa" "http://www.cas.sc.edu/socy/faculty/deflem/Hit/ahitch1.htm" %}}
 3.  I also recommend an article by Jessica Silbey, "Patterns of Courtroom Justice" in _Journal of_ _Law and Society_ Volume 28, Number 1, March 2001. That issue contains additional articles.
 4.  Please meet with me or the writing tutor for this course, to discuss any potential problems you are having. Furthermore, I recommend that you discuss the films and the readings, lectures, etc. with your classmates. It is the very best way to develop your ideas and master the materials.
 
